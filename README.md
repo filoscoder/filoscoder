@@ -4,10 +4,10 @@
 ### About me 👋
 Wonjang Son (Daniel) was born in South Korea, raised in Argentina and worked in many countries like Argentina, United States, Mexico and South Korea as well. He was working in Accountings and Finance fields in the past, that perspective with the details and forecasting the resources allows a great improvements on logical thinking and problem solving attitude. Now he is into web development, working as a software engineer he's always open to developing both the client and the server-side. His highest goal is making the world a better place with tech. Never forget this, tech is always a tool and not a purpose by it self. He currently works and lives in Madrid, Spain with his lovely wife Amanda.
 
-I'm skilled in Javascript environment focused on the client-side but always supporting everybody's "back"(end).
-Interested in handling cross-platform cool ideas & solutions abroad! 
-I'm always aware of the existence of a variated pool of skills that makes me humble & listen-first minded. I have strong logical-communication skills and a problem-solving mood.
-I speak Spanish and Korean native level, and enough English to be a valuable member :)
+He's skilled in Javascript environment focused on the client-side but always supporting everybody's "back"(end).
+Interested in handling cross-platform cool ideas & developing real-world problem solutions.
+He is always aware of the existence of a variated pool of skills that makes him humble & listen-first minded. He has strong logical-communication skills and a problem-solving attitude.
+He speaks Spanish and Korean native level, and enough English to be a valuable contributor :)
 
 ## Front skills
 - Typescript
