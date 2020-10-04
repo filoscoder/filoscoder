@@ -42,7 +42,7 @@ I speak Spanish and Korean native level, and enough English to be a valuable mem
 - Slack
 
 ### Contact
-- 📫 How to reach me: ...
+- 📫 How to reach me: [sondaniel.88@gmail.com](mailto:sondaniel.88@gmail.com)
 
 <!--
 **filoscoder/filoscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
