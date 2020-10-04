@@ -1,8 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffiloscoder%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 
-### About me 👋
-Wonjang Son (Daniel) was born in South Korea, raised in Argentina and worked in many countries like Argentina, United States, Mexico and South Korea as well. He was working in Accountings and Finance fields in the past, that perspective with the details and forecasting the resources allows a great improvements on logical thinking and problem solving attitude. Now he is into web development, working as a software engineer he's always open to developing both the client and the server-side. His highest goal is making the world a better place with tech. Never forget this, tech is always a tool and not a purpose by it self. He currently works and lives in Madrid, Spain with his lovely wife Amanda.
+# About me 👋
+Wonjang Son (Daniel) was born in South Korea, raised in Argentina, and worked in many countries like Argentina, United States, Mexico, and South Korea as well. He was working in Accountings and Finance fields in the past, that perspective looking at the details and forecasting limited resources allow great improvements in logical thinking and problem-solving attitude. Now he is into web development, working as a software engineer he's always open to developing both the client and the server-side. His highest goal is to make the world a better place through tech. Never forget this, tech is always a tool and not a purpose by itself.
+He currently works and lives in Madrid, Spain with his lovely wife Amanda.
 
 He's skilled in Javascript environment focused on the client-side but always supporting everybody's "back"(end).
 Interested in handling cross-platform cool ideas & developing real-world problem solutions.
@@ -28,21 +29,13 @@ He speaks Spanish and Korean native level, and enough English to be a valuable c
 - GraphQL (Testing with Playground & Prisma studio)
 
 ## Test
-- ESLint
-- Prettier
 - Jest
 - Storybook
 
-## Etc
-- Postman / SequelPro / DBeaver
-- Git (Rebase or die!)
-- Github
-- Source-Tree
-- Notion
-- Slack
 
-### Contact
+# Contact
 - 📫 How to reach me: [sondaniel.88@gmail.com](mailto:sondaniel.88@gmail.com)
+- 
 
 <!--
 **filoscoder/filoscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
