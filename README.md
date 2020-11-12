@@ -37,6 +37,7 @@ He speaks Spanish and Korean native level, and enough English to be a valuable c
 
 # Contact
 - 💬 I currently work and live in Madrid, Spain with my lovely wife Amanda.
+- ⚡ Follow us on Youtube [here](https://www.youtube.com/channel/UCSq2lLwBhN3IZz2lZuoK9ZA/featured)
 <!--
 **filoscoder/filoscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
