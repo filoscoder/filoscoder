@@ -1,5 +1,3 @@
----
-
 # About me 👋
 Wonjang Son (Daniel) was born in South Korea, raised in Argentina, and worked in many countries like Argentina, United States, Mexico, and South Korea as well. He was working in Accountings and Finance fields in the past, that perspective looking at the details and forecasting limited resources allow great improvements in logical thinking and problem-solving attitude. Now he is into web development, working as a software engineer he's always open to developing both the client and the server-side. His highest goal is to make the world a better place through tech. Never forget this, tech is always a tool and not a purpose by itself.
 
