@@ -25,7 +25,6 @@ He speaks Spanish and Korean native level, and enough English to be a valuable c
 - MySQL (Sequelize) 
 - PostgreSQL (Prisma/ Nexus.js)
 - GraphQL (Testing with Playground & Prisma studio)
-
 <br>
 <br>
 
