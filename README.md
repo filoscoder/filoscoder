@@ -35,9 +35,10 @@ He speaks Spanish and Korean native level, and enough English to be a valuable c
 [![filoscoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=filoscoder&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/filoscoder)
 
 # Contact 📞
-[![Linkedin](https://img.shields.io/badge/Linkedin-Wonjang%20Son-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
+
 #### 💬 I'm currently working and living in Madrid, Spain with my lovely wife Amanda.
-#### ⚡ Follow us on Youtube [here](https://www.youtube.com/channel/UCSq2lLwBhN3IZz2lZuoK9ZA/featured)
+- [![Linkedin](https://img.shields.io/badge/Linkedin-Wonjang%20Son-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
+- [![Youtube](https://img.shields.io/badge/Youtube-Filoscoder-FF4E45?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=BzI9dnKphVg)
 
 
 <!--
