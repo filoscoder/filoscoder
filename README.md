@@ -38,7 +38,7 @@ He speaks Spanish and Korean native level, and enough English to be a valuable c
 
 #### 💬 I'm currently working and living in Madrid, Spain with my lovely wife Amanda.
 - [![Linkedin](https://img.shields.io/badge/Linkedin-Wonjang%20Son-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
-- [![Youtube](https://img.shields.io/badge/Youtube-Filoscoder-FF4E45?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=BzI9dnKphVg)
+- [![Youtube](https://img.shields.io/badge/Youtube-Filoscoder-FF4E45?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCkaDIcJTR3LCAfZsU3765aw)
 
 
 <!--
