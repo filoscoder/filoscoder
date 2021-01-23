@@ -15,15 +15,15 @@ He speaks Spanish and Korean native level, and enough English to be a valuable c
 
 ## 🎨 Front skills
 - Typescript
-- React-native (Expo)
 - React.js
 - React-Hooks
-- MobX
+- Context API
 - Styled components
 - TailwindCSS
 
 ## ♟ Back skills
 - Node.js
+- Express.js
 - Nginx
 - AWS products (EC2, S3, Route53, CloudFront)
 - Firebase (Auth, Firestore, Storage, Hosting)
