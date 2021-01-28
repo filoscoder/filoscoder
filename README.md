@@ -19,6 +19,7 @@ He speaks Spanish and Korean native level, and enough English to be a valuable c
 - React-Hooks
 - Context API
 - Styled components
+- SASS
 - TailwindCSS
 
 ## ♟ Back skills
@@ -29,7 +30,7 @@ He speaks Spanish and Korean native level, and enough English to be a valuable c
 - Firebase (Auth, Firestore, Storage, Hosting)
 - MySQL (Sequelize) 
 - PostgreSQL (Prisma/ Nexus.js)
-- GraphQL (Testing with Playground & Prisma studio)
+- GraphQL (Apollo)
 <br>
 <br>
 
