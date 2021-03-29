@@ -15,35 +15,6 @@ I'm always aware of the existence of a variated pool of skills that makes me hum
 
 I speaks Spanish and Korean native level, and enough English to be a valuable contributor :)
 
-
-[ Front skills ]
-- Typescript
-- React.js
-- React-Hooks
-- Context API
-- MobX
-- Styled component
-- Sass
-- TailwindCSS
-
-[ Back skills ]
-- Node.js (Express.js)
-- Nginx
-- PM2 clusters
-- AWS products (EC2, S3, Route53, CloudFront)
-- Firebase (Auth, Firestore, Storage, Hosting)
-- MySQL (Sequelize) 
-- PostgreSQL (Nexus/Prisma)
-- GraphQL (Apollo)
-
-[ Test ]
-- ESLint
-- Jest
-
-[ Etc ]
-- Postman / SequelPro / DBeaver
-- Git (not Merge, Rebase or die!)
-- Github (Projects, milestones, Issues/ PR)
 <br>
 <br>
 
