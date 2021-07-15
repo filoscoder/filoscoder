@@ -32,7 +32,7 @@ I speak Spanish and Korean native level, and enough English to be a valuable con
 - Node.js
 - Express.js
 - Nginx
-- AWS products (EC2, S3, Route53, CloudFront)
+- AWS products (EC2, S3, Route53, CloudFront, SAM, Lambda)
 - Firebase (Auth, Firestore, Storage, Hosting)
 - MySQL (Sequelize) 
 - PostgreSQL (Prisma/ Nexus.js)
@@ -48,7 +48,7 @@ I speak Spanish and Korean native level, and enough English to be a valuable con
 
 # Contact 📞
 
-#### 💬 I'm currently working and living in Madrid, Spain with my lovely wife Amanda.
+#### 💬 I'm currently WFH in Madrid, Spain with my lovely wife Amanda.
 - [![Linkedin](https://img.shields.io/badge/Linkedin-Wonjang%20Son-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
 - [![Youtube](https://img.shields.io/badge/Youtube-Filoscoder-FF4E45?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCpgfAkXhktOpoRspHg4JvCw)
 
