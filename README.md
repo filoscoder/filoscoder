@@ -33,7 +33,7 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 - Node.js
 - Express.js
 - Nginx
-- AWS products (EC2, S3, Route53, CloudFront, SAM, Lambda)
+- AWS products (EC2, S3, Route53, CloudFront, SAM, Lambda, Cognito, DynamoDB)
 - Firebase (Auth, Firestore, Storage, Hosting)
 - MySQL (Sequelize) 
 - PostgreSQL (Prisma/ Nexus.js)
