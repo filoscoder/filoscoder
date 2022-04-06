@@ -37,6 +37,7 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 - Firebase (Auth, Firestore, Storage, Hosting)
 - MySQL (Sequelize) 
 - PostgreSQL (Prisma/ Nexus.js)
+- MongoDB (Mongoose)
 - GraphQL (Apollo)
 - PM2
 <br>
