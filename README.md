@@ -49,6 +49,8 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 [![filoscoder's github stats](https://github-readme-stats.vercel.app/api?username=filoscoder&show_icons=true&hide_border=true&count_private=true&title_color=004386&icon_color=004386)](https://github.com/filoscoder)
 [![filoscoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=filoscoder&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/filoscoder)
 
+<a href="http://www.github.com/filoscoder"><img src="https://activity-graph.herokuapp.com/graph?username=filoscoder&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 # Contact 📞
 
 #### 💬 I'm currently WFH in Madrid, Spain with my lovely wife Amanda.
