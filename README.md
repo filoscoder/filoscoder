@@ -47,17 +47,13 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffiloscoder%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![filoscoder's github stats](https://github-readme-stats.vercel.app/api?username=filoscoder&show_icons=true&hide_border=true&count_private=true&title_color=004386&icon_color=004386)](https://github.com/filoscoder)
-[![filoscoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=filoscoder&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/filoscoder)
 
 <a href="http://www.github.com/filoscoder"><img src="https://activity-graph.herokuapp.com/graph?username=filoscoder&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 # Contact 📞
 
-#### 💬 I'm currently WFH in Madrid, Spain with my lovely wife Amanda.
-- [![Linkedin](https://img.shields.io/badge/Linkedin-Wonjang%20Son-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
-- [![Youtube](https://img.shields.io/badge/Youtube-Filoscoder-FF4E45?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCpgfAkXhktOpoRspHg4JvCw)
-
-- <a href="https://www.buymeacoffee.com/filoscoder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" ></a>
+#### 💬 I'm currently WFH in Spain with my lovely wife Amanda.
+[![Linkedin](https://img.shields.io/badge/Linkedin-Wonjang%20Son-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
 
 
 <!--
