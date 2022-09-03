@@ -43,6 +43,13 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 <br>
 <br>
 
+# Contact 📞
+
+#### 💬 I'm currently WFH in Spain with my lovely wife Amanda.
+[![Linkedin](https://img.shields.io/badge/Linkedin-filoscoder-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
+<br>
+<br>
+
 # Stats 📊
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffiloscoder%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -51,12 +58,6 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 [![trophy](https://github-profile-trophy.vercel.app/?username=filoscoder&no-frame=true&margin-w=20&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="http://www.github.com/filoscoder"><img src="https://activity-graph.herokuapp.com/graph?username=filoscoder&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-# Contact 📞
-
-#### 💬 I'm currently WFH in Spain with my lovely wife Amanda.
-[![Linkedin](https://img.shields.io/badge/Linkedin-Wonjang%20Son-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
-
 
 <!--
 **filoscoder/filoscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
