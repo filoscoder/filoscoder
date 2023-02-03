@@ -49,6 +49,7 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 [![Linkedin](https://img.shields.io/badge/Linkedin-filoscoder-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
 <br>
 <br>
+<a href="https://www.buymeacoffee.com/filoscoder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # Stats 📊
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffiloscoder%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
