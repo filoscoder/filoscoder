@@ -19,9 +19,11 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 
 ## 🎨 Front
 - Typescript
+- Next.js
 - React.js
 - React-Hooks
 - Context API
+- React-Query
 - Redux
 - MobX
 - Styled components
@@ -31,6 +33,7 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 
 ## ♟ Back
 - Node.js
+- Nest.js
 - Express.js
 - Nginx
 - AWS products (EC2, S3, Route53, CloudFront, SAM, Lambda, Cognito, DynamoDB)
@@ -40,6 +43,10 @@ I speak Spanish, Korean and enough English to be a valuable contributor :)
 - MongoDB (Mongoose)
 - GraphQL (Apollo)
 - PM2
+
+## 🍄 Just for fun
+- Go
+- Flutter
 <br>
 <br>
 
