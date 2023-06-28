@@ -37,7 +37,7 @@
           <img
             src="https://streak-stats.demolab.com/?user=filoscoder&theme=onedark&hide_border=true&stroke=f0eee9&ring=8EACBF&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
             alt="GitHub Streak Stats"
-            height="195px"
+            width="100%"
           />
         </a>
       </td>
@@ -46,6 +46,7 @@
           <img
             src="https://github-profile-trophy.vercel.app/?username=kyubumJang&theme=onedark&row=2&column=4&no-frame=true"
             alt="GitHub Profile Trophy"
+            width="100%"
           />
         </a>
       </td>
@@ -58,7 +59,7 @@
 
 # Contact 📞
 
-#### 💬 I'm currently WFH in Spain with my lovely wife Amanda.
+#### 💬 Currently WFH in 🇪🇸Spain with my lovely wife Amanda❣️🏖️
 [![Linkedin](https://img.shields.io/badge/filoscoder-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
 [![Linkedin](https://img.shields.io/badge/filoscoder-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@filoscoder)
 
