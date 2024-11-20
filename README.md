@@ -59,7 +59,7 @@
 
 # Contact 📞
 
-#### 💬 Currently WFH in 🇪🇸Spain with my lovely wife Amanda❣️🏖️
+#### 💬 Currently WFH based in 🇪🇸Spain
 - [![Linkedin](https://img.shields.io/badge/filoscoder-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
 - [![Linkedin](https://img.shields.io/badge/filoscoder-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@filoscoder)
 
