@@ -33,13 +33,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img
-            src="https://streak-stats.demolab.com/?user=filoscoder&theme=onedark&hide_border=true&stroke=f0eee9&ring=8EACBF&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d"
-            alt="GitHub Streak Stats"
-            width="100%"
-          />
-        </a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=filoscoder&hide_border=true&stroke=f0eee9&ring=8EACBF&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d&mode=weekly" alt="GitHub Streak" /></a>
       </td>
       <td>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
