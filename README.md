@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://stardev.io/developers/filoscoder"><img alt="Check out filoscoder&apos;s profile on stardev.io" src="https://stardev.io/developers/filoscoder/badge/languages/global.svg" /></a>
+        <a href="https://stardev.io/developers/filoscoder"><img alt="Check out filoscoder's profile on stardev.io" src="https://stardev.io/developers/filoscoder/badge/languages/locality.svg" /></a>
       </td>
       <td>
         <a href="https://github.com/filoscoder">
