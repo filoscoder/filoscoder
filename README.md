@@ -16,17 +16,6 @@
         <a href="https://stardev.io/developers/filoscoder"><img alt="Check out filoscoder's profile on stardev.io" src="https://stardev.io/developers/filoscoder/badge/languages/locality.svg" /></a>
       </td>
       <td>
-        <a href="https://github.com/filoscoder">
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=filoscoder&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study,fc-js-project&hide=CMake,ejs,css,shell,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
-            alt="Top Languages Card"
-            width="100%"
-          />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
           <img
             src="https://github-profile-trophy.vercel.app/?username=kyubumJang&theme=onedark&row=2&column=4&no-frame=true"
@@ -35,11 +24,22 @@
           />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/filoscoder">
           <img
             src="https://github-readme-stats.vercel.app/api?username=filoscoder&hide_title=true&show_icons=true&count_private=true&hide_border=true&theme=onedark&title_color=8EACBF&text_color=f0eee9&icon_color=8EACBF"
             alt="Github Stats Card"
+            width="100%"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/filoscoder">
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=filoscoder&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study,fc-js-project&hide=CMake,ejs,css,shell,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
+            alt="Top Languages Card"
             width="100%"
           />
         </a>
