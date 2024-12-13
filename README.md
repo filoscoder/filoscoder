@@ -13,6 +13,9 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://stardev.io/developers/filoscoder"><img alt="Check out filoscoder&apos;s profile on stardev.io" src="https://stardev.io/developers/filoscoder/badge/languages/global.svg" /></a>
+      </td>
+      <td>
         <a href="https://github.com/filoscoder">
           <img
             src="https://github-readme-stats.vercel.app/api?username=filoscoder&hide_title=true&show_icons=true&count_private=true&hide_border=true&theme=onedark&title_color=8EACBF&text_color=f0eee9&icon_color=8EACBF"
@@ -21,6 +24,8 @@
           />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/filoscoder">
           <img
@@ -29,11 +34,6 @@
             width="100%"
           />
         </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=filoscoder&hide_border=true&stroke=f0eee9&ring=8EACBF&fire=5f4b8b&currStreakNum=00abc0&currStreakLabel=00abc0&date_format=Y-m-d&mode=weekly" alt="GitHub Streak" /></a>
       </td>
       <td>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
