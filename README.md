@@ -27,19 +27,19 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/filoscoder">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=filoscoder&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study,fc-js-project&hide=CMake,ejs,css,shell,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
-            alt="Top Languages Card"
+            src="https://github-profile-trophy.vercel.app/?username=kyubumJang&theme=onedark&row=2&column=4&no-frame=true"
+            alt="GitHub Profile Trophy"
             width="100%"
           />
         </a>
       </td>
       <td>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <a href="https://github.com/filoscoder">
           <img
-            src="https://github-profile-trophy.vercel.app/?username=kyubumJang&theme=onedark&row=2&column=4&no-frame=true"
-            alt="GitHub Profile Trophy"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=filoscoder&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study,fc-js-project&hide=CMake,ejs,css,shell,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
+            alt="Top Languages Card"
             width="100%"
           />
         </a>
