@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffiloscoder%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<table>
+<table style="display: table; width: 100%;">
   <tbody>
     <tr>
       <td align="center" colspan="2">
@@ -56,9 +56,3 @@
 #### 💬 Currently WFH based in 🇪🇸Spain
 - [![Linkedin](https://img.shields.io/badge/filoscoder-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
 - [![Linkedin](https://img.shields.io/badge/filoscoder-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@filoscoder)
-
-<style>
-    table {
-        width: table;
-    }
-</style>
