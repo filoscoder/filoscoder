@@ -8,7 +8,7 @@
       <td align="center" colspan="2">
         <img
           width="100%"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filoscoder&theme=default" 
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filoscoder&theme=algolia" 
           alt="filoscoder profile details"
           />
       </td>
@@ -17,14 +17,14 @@
       <td align="center">
           <img
             width="100%"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filoscoder&theme=default"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filoscoder&theme=algolia"
             alt="Repo per language"
           />
       </td>
       <td align="center">
           <img
             width="100%"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filoscoder&theme=default"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filoscoder&theme=algolia"
             alt="Most commit language"
           />
       </td>
@@ -33,14 +33,14 @@
       <td align="center">
           <img
             width="100%"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filoscoder&theme=default"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filoscoder&theme=algolia"
             alt="Repo per language"
           />
       </td>
       <td align="center">
           <img
             width="100%"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=filoscoder&theme=default&utcOffset=8"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=filoscoder&theme=algolia&utcOffset=8"
             alt="Most commit language"
           />
       </td>
