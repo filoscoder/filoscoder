@@ -9,40 +9,47 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffiloscoder%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<table>
+<table style="display: table">
   <tbody>
     <tr>
-      <td>
-        <a href="https://stardev.io/developers/filoscoder"><img alt="Check out filoscoder's profile on stardev.io" src="https://stardev.io/developers/filoscoder/badge/languages/locality.svg" /></a>
-      </td>
-      <td>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img
-            src="https://github-profile-trophy.vercel.app/?username=kyubumJang&theme=onedark&row=2&column=4&no-frame=true"
-            alt="GitHub Profile Trophy"
-            width="100%"
+      <td align="center" colspan="2">
+        <img
+          width="100%"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filoscoder&theme=default" 
+          alt="filoscoder profile details"
           />
-        </a>
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/filoscoder">
+      <td align="center">
           <img
-            src="https://github-readme-stats.vercel.app/api?username=filoscoder&hide_title=true&show_icons=true&count_private=true&hide_border=true&theme=onedark&title_color=8EACBF&text_color=f0eee9&icon_color=8EACBF"
-            alt="Github Stats Card"
             width="100%"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filoscoder&theme=default"
+            alt="Repo per language"
           />
-        </a>
       </td>
-      <td>
-        <a href="https://github.com/filoscoder">
+      <td align="center">
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=filoscoder&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study,fc-js-project&hide=CMake,ejs,css,shell,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
-            alt="Top Languages Card"
             width="100%"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filoscoder&theme=default"
+            alt="Most commit language"
           />
-        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+          <img
+            width="100%"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filoscoder&theme=default"
+            alt="Repo per language"
+          />
+      </td>
+      <td align="center">
+          <img
+            width="100%"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=filoscoder&theme=default&utcOffset=8"
+            alt="Most commit language"
+          />
       </td>
     </tr>
   </tbody>
@@ -56,7 +63,4 @@
 #### 💬 Currently WFH based in 🇪🇸Spain
 - [![Linkedin](https://img.shields.io/badge/filoscoder-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filoscoder/)
 - [![Linkedin](https://img.shields.io/badge/filoscoder-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@filoscoder)
-
-<br>
-
 
